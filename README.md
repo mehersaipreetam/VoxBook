@@ -17,7 +17,6 @@ VoxBook is a local-first, free AI-powered smart audiobook generator and player. 
 
 - `/backend` - FastAPI server, text extractors, TTS synthesizers, and structuring logic.
 - `/frontend` - React/Vite client SPA styled with Vanilla CSS.
-- `/books` - Workspace folders for input PDFs.
 
 ## Setup & Running
 
