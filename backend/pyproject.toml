@@ -1,0 +1,20 @@
+[project]
+name = "voxbook-backend"
+version = "0.1.0"
+description = "Backend preprocessing pipeline for VoxBook PDF audiobook generation"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "pymupdf>=1.24.0",
+    "pdfplumber>=0.11.0",
+    "ollama>=0.2.1",
+    "edge-tts>=6.1.12",
+    "pydub>=0.25.1",
+    "fastapi>=0.110.0",
+    "python-multipart>=0.0.9",
+    "uvicorn>=0.28.0",
+    "pyttsx3>=2.90",
+]
+
+[tool.uv]
+dev-dependencies = []

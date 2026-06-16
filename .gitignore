@@ -1,0 +1,38 @@
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Python virtual env and cache
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local compiled audiobooks and assets (large mp3 and images)
+frontend/public/books/*/
+!frontend/public/books/books.json
+!frontend/public/books/welcome-to-voxbook/
+
+# Upload inputs
+backend/input/*
+!backend/input/.gitkeep
+
+# Project-specific AI planning files to ignore
+Architecture.md
+CodingStandards.md
+Project.md
+Technologies.md
+
+# Logs
+*.log
+backend/task-*.log
+
+# OS files
+.DS_Store
+Thumbs.db

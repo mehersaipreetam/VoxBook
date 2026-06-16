@@ -1,0 +1,40 @@
+{
+  "book_id": "welcome-to-voxbook",
+  "book_title": "Welcome to VoxBook",
+  "author": "VoxBook Team",
+  "total_chapters": 2,
+  "total_duration_seconds": 73.92,
+  "cover_url": "/books/welcome-to-voxbook/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Chapter 1: Getting Started",
+      "lessons": [
+        {
+          "lesson_id": "ch1_l1",
+          "title": "1.1 What is VoxBook?",
+          "audio_file": "/books/welcome-to-voxbook/audio/ch1_l1.mp3",
+          "duration_seconds": 26.02
+        },
+        {
+          "lesson_id": "ch1_l2",
+          "title": "1.2 How it Works",
+          "audio_file": "/books/welcome-to-voxbook/audio/ch1_l2.mp3",
+          "duration_seconds": 23.98
+        }
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Chapter 2: Guide",
+      "lessons": [
+        {
+          "lesson_id": "ch2_l1",
+          "title": "2.1 Generating Books",
+          "audio_file": "/books/welcome-to-voxbook/audio/ch2_l1.mp3",
+          "duration_seconds": 23.93
+        }
+      ]
+    }
+  ]
+}

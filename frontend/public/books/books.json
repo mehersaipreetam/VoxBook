@@ -1,0 +1,16 @@
+[
+  {
+    "id": "welcome-to-voxbook",
+    "title": "Welcome to VoxBook",
+    "author": "VoxBook Team",
+    "cover_url": "/books/welcome-to-voxbook/cover.jpg",
+    "path": "/books/welcome-to-voxbook/metadata.json"
+  },
+  {
+    "id": "staffeng-2020-12-16",
+    "title": "Staffeng 2020 12 16",
+    "author": "Local Compiler",
+    "cover_url": "/books/staffeng-2020-12-16/cover.jpg",
+    "path": "/books/staffeng-2020-12-16/metadata.json"
+  }
+]
